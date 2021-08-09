@@ -1,0 +1,74 @@
+#Annotated with Bakta (v1.0.3): https://github.com/oschwengers/bakta
+#Database (v2.0): https://doi.org/10.5281/zenodo.4247252
+#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	194	397	-	LIAJBM_00005		hypothetical protein	RefSeq:WP_008930569.1, SO:0001217, UniParc:UPI00029B23E6, UniRef100:UniRef100_A0A2K9UZS0, UniRef50:UniRef50_W1MTQ0, UniRef90:UniRef90_W1MTQ0
+contig_1	cds	524	3160	+	LIAJBM_00010		Mobile element protein	SO:0001217, UniParc:UPI0002C18101, UniRef100:UniRef100_A0A2S1XY91, UniRef50:UniRef50_T2FKX8, UniRef90:UniRef90_T2FKX8
+contig_1	cds	3581	3697	-	LIAJBM_00015		hypothetical protein	
+contig_1	cds	3732	4376	+	LIAJBM_00020	qnrB1	quinolone resistance pentapeptide repeat protein QnrB1	COG:COG1357, COG:S, RefSeq:WP_014386481.1, SO:0001217, UniParc:UPI00025283F3, UniRef100:UniRef100_A0A5S9ED61, UniRef50:UniRef50_Q2PT27, UniRef90:UniRef90_A0A0H4IRC3
+contig_1	cds	4468	5136	-	LIAJBM_00025		Short chain dehydrogenase	COG:COG1028, COG:I, SO:0001217, UniParc:UPI00044F6EFB, UniRef100:UniRef100_A0A366EM97, UniRef50:UniRef50_A0A251XNR0, UniRef90:UniRef90_A0A336QQR3
+contig_1	cds	5176	5898	-	LIAJBM_00030	tnp-IS6	IS6-like element IS26 family transposase	COG:COG3316, COG:X, RefSeq:WP_001313567.1, SO:0001217, UniParc:UPI000049F13E, UniRef100:UniRef100_A0A6D1P4S9, UniRef50:UniRef50_C7EZD9, UniRef90:UniRef90_C7EZD9
+contig_1	cds	5917	6033	-	LIAJBM_00035		Resolvase/invertase-type recombinase catalytic domain-containing protein	SO:0001217, UniParc:UPI0003BB4416, UniRef100:UniRef100_A0A2R4PEB7, UniRef50:UniRef50_A0A2R4PEB7, UniRef90:UniRef90_A0A2R4PEB7
+contig_1	cds	6426	7361	-	LIAJBM_00040	intI1	class 1 integron integrase IntI1	COG:COG4974, COG:L, SO:0001217, UniParc:UPI00061CCD27, UniRef100:UniRef100_A0A3G4RR87, UniRef50:UniRef50_P62590, UniRef90:UniRef90_B7JCH8
+contig_1	ncRNA-region	7529	7601	+			putative aminoglycoside riboswitch / attI site	RFAM:RF02912, SO:0000035
+contig_1	sorf	7541	7579	+	LIAJBM_00045	estX	Streptothricin acetyltransferase	SO:0001217, UniParc:UPI00000B6A7E, UniRef100:UniRef100_A9QNW9, UniRef50:UniRef50_A0A2R4A7Q1, UniRef90:UniRef90_B2G4W1
+contig_1	cds	7595	8068	+	LIAJBM_00050	dfrA14	trimethoprim-resistant dihydrofolate reductase DfrA14	COG:COG0262, COG:H, RefSeq:WP_004201280.1, SO:0001217, UniParc:UPI00005051FA, UniRef100:UniRef100_F8T8W2, UniRef50:UniRef50_P00382, UniRef90:UniRef90_F8T8W2
+contig_1	cds	8280	8555	+	LIAJBM_00055		MobC domain-containing protein	SO:0001217, UniParc:UPI0005833FAD, UniRef100:UniRef100_A0A679FEV3, UniRef50:UniRef50_A0A679FEV3, UniRef90:UniRef90_A0A679FEV3
+contig_1	cds	8662	9462	+	LIAJBM_00060	tnp-IS6100	IS6-like element IS6100 family transposase	SO:0001217, UniParc:UPI0000697684, UniRef100:UniRef100_C7S9U1, UniRef50:UniRef50_E2CSF8, UniRef90:UniRef90_Q6QWQ8
+contig_1	cds	9594	9719	+	LIAJBM_00065		hypothetical protein	SO:0001217, UniRef50:UniRef50_A0A068F2N7, UniRef90:UniRef90_A0A068F2N7
+contig_1	cds	10598	10759	-	LIAJBM_00070		hypothetical protein	
+contig_1	cds	11517	11657	-	LIAJBM_00075		hypothetical protein	
+contig_1	cds	11864	12160	-	LIAJBM_00080		hypothetical protein	
+contig_1	cds	12514	12780	+	LIAJBM_00085		IS1	COG:COG1662, COG:X, SO:0001217, UniParc:UPI0001824656, UniRef100:UniRef100_L0R3I4, UniRef50:UniRef50_L0R3I4, UniRef90:UniRef90_L0R3I4
+contig_1	cds	13004	13354	-	LIAJBM_00090		Probable membrane protein STY4561	SO:0001217, UniRef50:UniRef50_A0A5B8H393, UniRef90:UniRef90_A0A5B8H393
+contig_1	cds	13308	13523	-	LIAJBM_00095		hypothetical protein	
+contig_1	cds	13550	14251	-	LIAJBM_00100	tnp-IS6	IS6 family transposase	COG:COG3316, COG:X, SO:0001217, UniRef50:UniRef50_A0A345N8K8, UniRef90:UniRef90_A0A482M3B9
+contig_1	cds	14540	14779	+	LIAJBM_00105		hypothetical protein	SO:0001217, UniRef50:UniRef50_A0A366EMY7, UniRef90:UniRef90_A0A366EMY7
+contig_1	cds	14856	15023	+	LIAJBM_00110		hypothetical protein	SO:0001217, UniParc:UPI000654E1C3, UniRef100:UniRef100_A0A0G3AZ83, UniRef50:UniRef50_A0A0G3AZ83, UniRef90:UniRef90_A0A0G3AZ83
+contig_1	cds	15144	15263	-	LIAJBM_00115		hypothetical protein	
+contig_1	cds	15288	16487	-	LIAJBM_00120	tet(A)	tetracycline efflux MFS transporter Tet(A)	COG:COG2814, COG:G, GO:0005886, GO:0006811, GO:0015297, GO:0016021, GO:0042910, GO:0046677, RefSeq:WP_031942321.1, SO:0001217, UniParc:UPI000158AAE9, UniRef100:UniRef100_A0A2P9EBP7, UniRef50:UniRef50_P02982, UniRef90:UniRef90_P02982
+contig_1	cds	16588	17256	+	LIAJBM_00125		TetA resistance protein	COG:COG1309, COG:K, RefSeq:WP_031942322.1, SO:0001217, UniParc:UPI0004E05D41, UniRef100:UniRef100_A0A2P4S2Q8, UniRef50:UniRef50_P03038, UniRef90:UniRef90_D3INX2
+contig_1	cds	17452	17964	+	LIAJBM_00130		hypothetical protein	SO:0001217, UniParc:UPI000793608D, UniRef100:UniRef100_A0A6S5K651, UniRef50:UniRef50_F6IBB7, UniRef90:UniRef90_F6IBB7
+contig_1	cds	18060	18782	+	LIAJBM_00135	tnp-IS6	IS6-like element IS26 family transposase	COG:COG3316, COG:X, RefSeq:WP_001313567.1, SO:0001217, UniParc:UPI000049F13E, UniRef100:UniRef100_A0A6D1P4S9, UniRef50:UniRef50_C7EZD9, UniRef90:UniRef90_C7EZD9
+contig_1	cds	18865	20727	+	LIAJBM_00140		Transposase (Identified by ISEscan HMM)	SO:0001217, UniRef50:UniRef50_A0A377E8M8, UniRef90:UniRef90_A0A3P5BPQ5
+contig_1	cds	20742	21677	+	LIAJBM_00145		Mobile element protein	SO:0001217, UniParc:UPI00024F1A21, UniRef100:UniRef100_A0A2L1F4P6, UniRef50:UniRef50_Q00037, UniRef90:UniRef90_I6NJN5
+contig_1	cds	21702	21896	-	LIAJBM_00150		hypothetical protein	SO:0001217, UniRef50:UniRef50_A0A377LQ94, UniRef90:UniRef90_A0A3S8XAJ4
+contig_1	cds	22639	23019	+	LIAJBM_00155		hypothetical protein	RefSeq:WP_001371925.1, SO:0001217, UniParc:UPI000021C361, UniRef100:UniRef100_A0A3S7L7A6, UniRef50:UniRef50_A0A3S7L7A6, UniRef90:UniRef90_A0A3S7L7A6
+contig_1	cds	23077	23688	+	LIAJBM_00160		hypothetical protein	SO:0001217, UniRef50:UniRef50_A0A2X5V4G8, UniRef90:UniRef90_A0A2X5V4G8
+contig_1	cds	23734	24453	+	LIAJBM_00165		IS5 transposase	SO:0001217, UniRef50:UniRef50_A0A2T7FGS5, UniRef90:UniRef90_A0A376L5B0
+contig_1	cds	24482	24751	+	LIAJBM_00170		hypothetical protein	
+contig_1	cds	25009	25263	+	LIAJBM_00175		hypothetical protein	
+contig_1	cds	25563	25856	+	LIAJBM_00180		hypothetical protein	
+contig_1	cds	26210	26443	-	LIAJBM_00185		hypothetical protein	
+contig_1	cds	26507	27070	-	LIAJBM_00190		hypothetical protein	
+contig_1	cds	27057	27272	-	LIAJBM_00195		hypothetical protein	
+contig_1	cds	27546	27704	+	LIAJBM_00200		hypothetical protein	
+contig_1	cds	27922	28200	-	LIAJBM_00205		hypothetical protein	
+contig_1	cds	28236	28661	-	LIAJBM_00210		Transposase (Identified by ISEscan HMM)	SO:0001217, UniRef50:UniRef50_A0A3P4MWA1, UniRef90:UniRef90_A0A3P4MWA1
+contig_1	cds	28996	29214	+	LIAJBM_00215		hypothetical protein	
+contig_1	cds	29201	29455	+	LIAJBM_00220		hypothetical protein	
+contig_1	cds	29674	29841	+	LIAJBM_00225		hypothetical protein	
+contig_1	cds	29908	30132	+	LIAJBM_00230		IS6 family transposase	SO:0001217, UniRef50:UniRef50_A0A417ZMY3, UniRef90:UniRef90_A0A6F8QJY6
+contig_1	cds	30086	30307	+	LIAJBM_00235		hypothetical protein	
+contig_1	cds	30304	30621	+	LIAJBM_00240		DDE-type integrase/transposase/recombinase	SO:0001217, UniRef50:UniRef50_A0A0M2KE51, UniRef90:UniRef90_UPI00117B3DAB
+contig_1	cds	30634	31326	+	LIAJBM_00245	aac(6')-Ib-cr	fluoroquinolone-acetylating aminoglycoside 6'-N-acetyltransferase AAC(6')-Ib-cr	COG:COG1670, COG:JO, SO:0001217, UniParc:UPI0001B22EC5, UniRef100:UniRef100_C7S9C9, UniRef50:UniRef50_Q849Y4, UniRef90:UniRef90_A0A0C5EWG3
+contig_1	cds	31694	32287	+	LIAJBM_00250	blaOXA	OXA-1 family class D beta-lactamase	COG:COG2602, COG:V, EC:3.5.2.6, GO:0008658, GO:0008800, GO:0017001, GO:0046677, SO:0001217, UniParc:UPI00020C5B6D, UniRef100:UniRef100_A0A0D4ZXG6, UniRef50:UniRef50_P13661, UniRef90:UniRef90_P13661
+contig_1	cds	32425	32973	+	LIAJBM_00255	catB3	type B-3 chloramphenicol O-acetyltransferase CatB3	RefSeq:WP_012783949.1, SO:0001217, UniParc:UPI0001B22EC7, UniRef100:UniRef100_C7S9D1, UniRef50:UniRef50_P26841, UniRef90:UniRef90_C7S9D1
+contig_1	cds	32919	33641	-	LIAJBM_00260	tnp-IS6	IS6-like element IS26 family transposase	COG:COG3316, COG:X, RefSeq:WP_001313567.1, SO:0001217, UniParc:UPI000049F13E, UniRef100:UniRef100_A0A6D1P4S9, UniRef50:UniRef50_C7EZD9, UniRef90:UniRef90_C7EZD9
+contig_1	cds	33730	34590	+	LIAJBM_00265	aac(3)-IIe	aminoglycoside N-acetyltransferase AAC(3)-IIe	RefSeq:WP_000557452.1, SO:0001217, UniParc:UPI0000000849, UniRef100:UniRef100_P0A256, UniRef90:UniRef90_P0A256
+contig_1	cds	34603	35145	+	LIAJBM_00270		AAA family ATPase	RefSeq:WP_002063889.1, SO:0001217, UniParc:UPI00000BF810, UniRef100:UniRef100_Q6SJ67, UniRef50:UniRef50_Q6SJ67, UniRef90:UniRef90_Q6SJ67
+contig_1	cds	35216	35548	+	LIAJBM_00275	tnp-IS3	IS3 family transposase	COG:COG2963, COG:X, SO:0001217, UniParc:UPI0001B22EC8, UniRef100:UniRef100_Q6SJ66, UniRef50:UniRef50_A0A2P9E4M0, UniRef90:UniRef90_A0A2P9E4M0
+contig_1	cds	35545	36393	+	LIAJBM_00280		Integrase	COG:COG2963, COG:X, SO:0001217, UniParc:UPI0001B22EC9, UniRef100:UniRef100_C7S9D6, UniRef50:UniRef50_N8RCI9, UniRef90:UniRef90_C7S9D6
+contig_1	cds	36339	37061	-	LIAJBM_00285	tnp-IS6	IS6-like element IS26 family transposase	COG:COG3316, COG:X, RefSeq:WP_001313567.1, SO:0001217, UniParc:UPI000049F13E, UniRef100:UniRef100_A0A6D1P4S9, UniRef50:UniRef50_C7EZD9, UniRef90:UniRef90_C7EZD9
+contig_1	cds	37090	39030	-	LIAJBM_00290		DDE_Tnp_Tn3 domain-containing protein	SO:0001217, UniParc:UPI000290DEDD, UniRef100:UniRef100_M7CD63, UniRef50:UniRef50_A0A6C7H588, UniRef90:UniRef90_A0A6J4DJI3
+contig_1	cds	39410	39709	-	LIAJBM_00295		hypothetical protein	SO:0001217, UniRef50:UniRef50_A0A0K2YQR7, UniRef90:UniRef90_A0A0K2YQR7
+contig_1	cds	39744	40619	-	LIAJBM_00300	blaCTX-M-15	class A extended-spectrum beta-lactamase CTX-M-15	EC:3.5.2.6, GO:0008800, GO:0030655, GO:0046677, RefSeq:WP_000239590.1, SO:0001217, UniParc:UPI00000B17B8, UniRef100:UniRef100_C7S9T0, UniRef50:UniRef50_P52664, UniRef90:UniRef90_P28585
+contig_1	cds	40875	41114	-	LIAJBM_00305		IS1380 family transposase	SO:0001217, UniRef50:UniRef50_A0A220UUN6, UniRef90:UniRef90_A0A6W0KQA1
+contig_1	cds	41268	41990	+	LIAJBM_00310	tnp-IS6	IS6-like element IS26 family transposase	COG:COG3316, COG:X, RefSeq:WP_001313567.1, SO:0001217, UniParc:UPI000049F13E, UniRef100:UniRef100_A0A6D1P4S9, UniRef50:UniRef50_C7EZD9, UniRef90:UniRef90_C7EZD9
+contig_1	cds	42030	43808	+	LIAJBM_00315		Mobile element protein	SO:0001217, UniParc:UPI00018246AD, UniRef100:UniRef100_C6G9V4, UniRef50:UniRef50_R4WC23, UniRef90:UniRef90_A0A0X8XBR1
+contig_1	cds	44202	44891	+	LIAJBM_00320	tnp-IS110	IS110 family transposase	COG:COG3547, COG:X, SO:0001217, UniParc:UPI0002EE133B, UniRef100:UniRef100_A0A075MIT2, UniRef50:UniRef50_C4NV47, UniRef90:UniRef90_D3VY52
+contig_1	cds	44932	45087	+	LIAJBM_00325		hypothetical protein	SO:0001217, UniRef50:UniRef50_A0A1Z3MLK1, UniRef90:UniRef90_A0A1Z3MLK1
+contig_1	cds	45090	45248	-	LIAJBM_00330		Integrase	RefSeq:WP_165698993.1, SO:0001217, UniParc:UPI000E2BBE47, UniRef100:UniRef100_A0A486V9N8, UniRef50:UniRef50_A0A7A5QLZ8, UniRef90:UniRef90_A0A486V9N8
+contig_1	cds	45545	45928	-	LIAJBM_00335		hypothetical protein	
+contig_1	cds	45938	46399	-	LIAJBM_00340		hypothetical protein	SO:0001217, UniRef50:UniRef50_A0A486KSZ2, UniRef90:UniRef90_A0A486KSZ2
+contig_1	cds	47012	47257	+	LIAJBM_00345	aph(3'')	APH(3'') family aminoglycoside O-phosphotransferase	RefSeq:WP_001945044.1, SO:0001217, UniParc:UPI00023328CB, UniRef100:UniRef100_Q19SU3, UniRef50:UniRef50_A0A4U9H854, UniRef90:UniRef90_Q19SU3
+contig_1	cds	47254	48093	+	LIAJBM_00350	aph(6)-Id	aminoglycoside O-phosphotransferase APH(6)-Id	COG:COG3570, COG:V, SO:0001217, UniParc:UPI0003E35420, UniRef100:UniRef100_V5KBE1, UniRef50:UniRef50_C5IWK8, UniRef90:UniRef90_Q7ATJ6

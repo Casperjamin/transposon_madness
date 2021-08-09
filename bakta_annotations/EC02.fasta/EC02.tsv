@@ -1,0 +1,37 @@
+#Annotated with Bakta (v1.0.3): https://github.com/oschwengers/bakta
+#Database (v2.0): https://doi.org/10.5281/zenodo.4247252
+#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	732	995	-	AMOGMI_00005		hypothetical protein	
+contig_1	cds	1001	1723	-	AMOGMI_00010	tnp-IS6	IS6-like element IS26 family transposase	COG:COG3316, COG:X, RefSeq:WP_001313567.1, SO:0001217, UniParc:UPI000049F13E, UniRef100:UniRef100_A0A6D1P4S9, UniRef50:UniRef50_C7EZD9, UniRef90:UniRef90_C7EZD9
+contig_1	cds	1819	2049	-	AMOGMI_00015		hypothetical protein	
+contig_1	cds	2527	3195	-	AMOGMI_00020		TetA resistance protein	COG:COG1309, COG:K, RefSeq:WP_031942322.1, SO:0001217, UniParc:UPI0004E05D41, UniRef100:UniRef100_A0A2P4S2Q8, UniRef50:UniRef50_P03038, UniRef90:UniRef90_D3INX2
+contig_1	cds	3368	4495	+	AMOGMI_00025	tet(A)	tetracycline efflux MFS transporter Tet(A)	COG:COG2814, COG:G, SO:0001217, UniRef50:UniRef50_P02981, UniRef90:UniRef90_Q9EWD0
+contig_1	cds	5004	5243	-	AMOGMI_00030		hypothetical protein	SO:0001217, UniRef50:UniRef50_A0A366EMY7, UniRef90:UniRef90_A0A366EMY7
+contig_1	cds	5532	6254	+	AMOGMI_00035	tnp-IS6	IS6-like element IS26 family transposase	COG:COG3316, COG:X, SO:0001217, UniRef50:UniRef50_A0A345N8K8, UniRef90:UniRef90_A0A482M3B9
+contig_1	cds	6358	6699	+	AMOGMI_00040		hypothetical protein	
+contig_1	sorf	6699	6779	+	AMOGMI_00045		Mrr_cat domain-containing protein	SO:0001217, UniParc:UPI0012C9A840, UniRef100:UniRef100_A0A0A0R2B0, UniRef50:UniRef50_X6QDM6, UniRef90:UniRef90_A0A6G8F959
+contig_1	cds	7912	8094	-	AMOGMI_00050		hypothetical protein	
+contig_1	cds	9120	10052	-	AMOGMI_00055		hypothetical protein	SO:0001217, UniRef50:UniRef50_A0A6C7H3E7, UniRef90:UniRef90_A0A6C7H3E7
+contig_1	cds	10059	10181	-	AMOGMI_00060		hypothetical protein	SO:0001217, UniParc:UPI0003DBF152, UniRef100:UniRef100_A0A068F2N7, UniRef50:UniRef50_A0A068F2N7, UniRef90:UniRef90_A0A068F2N7
+contig_1	cds	10313	11077	-	AMOGMI_00065		IS6-like element IS6100 family transposase	RefSeq:WP_001389365.1, SO:0001217, UniParc:UPI00000BF4A2, UniRef100:UniRef100_Q50HM3, UniRef50:UniRef50_Q50HM3, UniRef90:UniRef90_Q50HM3
+contig_1	cds	11220	11495	-	AMOGMI_00070		MobC domain-containing protein	SO:0001217, UniParc:UPI0005833FAD, UniRef100:UniRef100_A0A679FEV3, UniRef50:UniRef50_A0A679FEV3, UniRef90:UniRef90_A0A679FEV3
+contig_1	cds	11707	12168	-	AMOGMI_00075	dfrA14	trimethoprim-resistant dihydrofolate reductase DfrA14	COG:COG0262, COG:H, SO:0001217, UniRef50:UniRef50_P00382, UniRef90:UniRef90_F8T8W2
+contig_1	ncRNA-region	12174	12246	-			putative aminoglycoside riboswitch / attI site	RFAM:RF02912, SO:0000035
+contig_1	sorf	12196	12234	-	AMOGMI_00080	estX	Streptothricin acetyltransferase	SO:0001217, UniParc:UPI00000B6A7E, UniRef100:UniRef100_A9QNW9, UniRef50:UniRef50_A0A2R4A7Q1, UniRef90:UniRef90_B2G4W1
+contig_1	cds	12393	13349	+	AMOGMI_00085	intI1	class 1 integron integrase IntI1	COG:COG4974, COG:L, RefSeq:WP_004217865.1, SO:0001217, UniParc:UPI0002687243, UniRef100:UniRef100_A0A2S1PQ86, UniRef50:UniRef50_P62590, UniRef90:UniRef90_B7JCH8
+contig_1	cds	13877	14599	+	AMOGMI_00090	tnp-IS6	IS6-like element IS26 family transposase	COG:COG3316, COG:X, RefSeq:WP_001313567.1, SO:0001217, UniParc:UPI000049F13E, UniRef100:UniRef100_A0A6D1P4S9, UniRef50:UniRef50_C7EZD9, UniRef90:UniRef90_C7EZD9
+contig_1	cds	14663	14842	-	AMOGMI_00095		hypothetical protein	
+contig_1	cds	15399	16043	-	AMOGMI_00100	qnrB1	quinolone resistance pentapeptide repeat protein QnrB1	COG:COG1357, COG:S, RefSeq:WP_014386481.1, SO:0001217, UniParc:UPI00025283F3, UniRef100:UniRef100_A0A5S9ED61, UniRef50:UniRef50_Q2PT27, UniRef90:UniRef90_A0A0H4IRC3
+contig_1	cds	16529	16702	+	AMOGMI_00105		hypothetical protein	
+contig_1	cds	16615	19251	-	AMOGMI_00110		Mobile element protein	SO:0001217, UniParc:UPI0002C18101, UniRef100:UniRef100_A0A2S1XY91, UniRef50:UniRef50_T2FKX8, UniRef90:UniRef90_T2FKX8
+contig_1	cds	20260	20499	+	AMOGMI_00115		hypothetical protein	SO:0001217, UniParc:UPI0003FD25A5, UniRef100:UniRef100_A0A366EM98, UniRef50:UniRef50_A0A366EM98, UniRef90:UniRef90_A0A366EM98
+contig_1	cds	20493	21215	+	AMOGMI_00120	tnp-IS6	IS6-like element IS26 family transposase	COG:COG3316, COG:X, RefSeq:WP_001313567.1, SO:0001217, UniParc:UPI000049F13E, UniRef100:UniRef100_A0A6D1P4S9, UniRef50:UniRef50_C7EZD9, UniRef90:UniRef90_C7EZD9
+contig_1	cds	21221	21913	+	AMOGMI_00125	aac(6')-Ib-cr	fluoroquinolone-acetylating aminoglycoside 6'-N-acetyltransferase AAC(6')-Ib-cr	COG:COG1670, COG:JO, SO:0001217, UniParc:UPI0001B22EC5, UniRef100:UniRef100_C7S9C9, UniRef50:UniRef50_Q849Y4, UniRef90:UniRef90_A0A0C5EWG3
+contig_1	cds	22281	22874	+	AMOGMI_00130	blaOXA	OXA-1 family class D beta-lactamase	COG:COG2602, COG:V, EC:3.5.2.6, GO:0008658, GO:0008800, GO:0017001, GO:0046677, SO:0001217, UniParc:UPI00020C5B6D, UniRef100:UniRef100_A0A0D4ZXG6, UniRef50:UniRef50_P13661, UniRef90:UniRef90_P13661
+contig_1	cds	23012	23560	+	AMOGMI_00135	catB3	type B-3 chloramphenicol O-acetyltransferase CatB3	RefSeq:WP_012783949.1, SO:0001217, UniParc:UPI0001B22EC7, UniRef100:UniRef100_C7S9D1, UniRef50:UniRef50_P26841, UniRef90:UniRef90_C7S9D1
+contig_1	cds	23506	24228	-	AMOGMI_00140	tnp-IS6	IS6-like element IS26 family transposase	COG:COG3316, COG:X, RefSeq:WP_001313567.1, SO:0001217, UniParc:UPI000049F13E, UniRef100:UniRef100_A0A6D1P4S9, UniRef50:UniRef50_C7EZD9, UniRef90:UniRef90_C7EZD9
+contig_1	cds	24317	25177	+	AMOGMI_00145	aac(3)-IIe	aminoglycoside N-acetyltransferase AAC(3)-IIe	RefSeq:WP_000557452.1, SO:0001217, UniParc:UPI0000000849, UniRef100:UniRef100_P0A256, UniRef90:UniRef90_P0A256
+contig_1	cds	25190	25732	+	AMOGMI_00150		AAA family ATPase	RefSeq:WP_002063889.1, SO:0001217, UniParc:UPI00000BF810, UniRef100:UniRef100_Q6SJ67, UniRef50:UniRef50_Q6SJ67, UniRef90:UniRef90_Q6SJ67
+contig_1	cds	25803	26135	+	AMOGMI_00155	tnp-IS3	IS3 family transposase	COG:COG2963, COG:X, SO:0001217, UniParc:UPI0001B22EC8, UniRef100:UniRef100_Q6SJ66, UniRef50:UniRef50_A0A2P9E4M0, UniRef90:UniRef90_A0A2P9E4M0
+contig_1	cds	26132	26980	+	AMOGMI_00160		Integrase	COG:COG2963, COG:X, SO:0001217, UniParc:UPI0001B22EC9, UniRef100:UniRef100_C7S9D6, UniRef50:UniRef50_N8RCI9, UniRef90:UniRef90_C7S9D6
+contig_1	cds	26926	27648	-	AMOGMI_00165	tnp-IS6	IS6-like element IS26 family transposase	COG:COG3316, COG:X, RefSeq:WP_001313567.1, SO:0001217, UniParc:UPI000049F13E, UniRef100:UniRef100_A0A6D1P4S9, UniRef50:UniRef50_C7EZD9, UniRef90:UniRef90_C7EZD9

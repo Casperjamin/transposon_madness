@@ -1,0 +1,47 @@
+{
+  "date": "2021-04-05",
+  "major": 2,
+  "minor": 0,
+  "dependencies": [
+    {
+      "name": "AMRFinderPlus",
+      "release": "2021-03-01"
+    },
+    {
+      "name": "COG",
+      "release": "2020"
+    },
+    {
+      "name": "DoriC",
+      "release": "10"
+    },
+    {
+      "name": "ISFinder",
+      "release": "2019-09-25"
+    },
+    {
+      "name": "Mob-suite",
+      "release": "2.0"
+    },
+    {
+      "name": "Pfam",
+      "release": "34"
+    },
+    {
+      "name": "RefSeq",
+      "release": "r205"
+    },
+    {
+      "name": "Rfam",
+      "release": "14.5"
+    },
+    {
+      "name": "UniProtKB/Swiss-Prot",
+      "release": "2021_01"
+    },
+    {
+      "name": "VFDB",
+      "release": "2021-04-05"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+15:49:49.364 - INFO - MAIN - version=1.0.3
+15:49:49.365 - INFO - MAIN - developer: Oliver Schwengers, https://github.com/oschwengers
+15:49:49.365 - INFO - MAIN - command: /Users/casperjamin/miniconda3/envs/bakta/bin/bakta --db /Users/casperjamin/Desktop/NOSYNC_NOTIMEMACHINE.nosync/bakta/db/ --threads 12 -o ../bakta_annotations/reference.fasta reference.fasta
+15:49:49.365 - INFO - MAIN - local time: 2021-08-09 15:49:49
+15:49:49.371 - INFO - MAIN - machine: type=i386, cores=12
+15:49:49.371 - INFO - MAIN - system: type=Darwin, release=20.5.0
+15:49:49.371 - INFO - MAIN - python: version=3.9.5, implementation=CPython
+15:49:49.371 - INFO - CONFIG - threads=12
+15:49:49.372 - INFO - CONFIG - verbose=False
+15:49:49.372 - INFO - CONFIG - database: type=parameter, path=/Users/casperjamin/Desktop/NOSYNC_NOTIMEMACHINE.nosync/bakta/db
+15:49:49.372 - INFO - CONFIG - tmp-path=/var/folders/9s/15s2g7v52755bjhtjvszthf40000gn/T/tmp37xbqjxi
+15:49:49.373 - INFO - CONFIG - genome-path=/Users/casperjamin/github.nosync/transposon_madness/sequences/reference.fasta
+15:49:49.373 - INFO - CONFIG - min_contig_length=1
+15:49:49.373 - INFO - CONFIG - prefix=reference
+15:49:49.373 - INFO - CONFIG - output-path=/Users/casperjamin/github.nosync/transposon_madness/bakta_annotations/reference.fasta
+15:49:49.373 - INFO - CONFIG - genus=None
+15:49:49.373 - INFO - CONFIG - species=None
+15:49:49.373 - INFO - CONFIG - strain=None
+15:49:49.373 - INFO - CONFIG - plasmid=None
+15:49:49.373 - INFO - CONFIG - complete=False
+15:49:49.373 - INFO - CONFIG - prodigal_tf=None
+15:49:49.373 - INFO - CONFIG - translation_table=11
+15:49:49.373 - INFO - CONFIG - gram=?
+15:49:49.373 - INFO - CONFIG - locus=None
+15:49:49.373 - INFO - CONFIG - locus-tag=None
+15:49:49.373 - INFO - CONFIG - keep_contig_headers=False
+15:49:49.374 - INFO - CONFIG - replicon-table=None
+15:49:49.374 - INFO - CONFIG - skip-tRNA=False
+15:49:49.374 - INFO - CONFIG - skip-tmRNA=False
+15:49:49.374 - INFO - CONFIG - skip-rRNA=False
+15:49:49.374 - INFO - CONFIG - skip-ncRNA=False
+15:49:49.374 - INFO - CONFIG - skip-ncRNA-region=False
+15:49:49.374 - INFO - CONFIG - skip-CRISPR=False
+15:49:49.374 - INFO - CONFIG - skip-CDS=False
+15:49:49.374 - INFO - CONFIG - skip-sORF=False
+15:49:49.374 - INFO - CONFIG - skip-gap=False
+15:49:49.374 - INFO - CONFIG - skip-ori=False
+15:49:49.375 - INFO - DB - detected: major=2, minor=0, date=2021-04-05
+15:49:49.504 - INFO - UTILS - dependency: tool=tRNAscan-SE, version=v2.0.7
+15:49:49.514 - INFO - UTILS - dependency: tool=aragorn, version=v1.2.38
+15:49:49.524 - INFO - UTILS - dependency: tool=cmscan, version=v1.1.4
+15:49:49.533 - INFO - UTILS - dependency: tool=pilercr, version=v1.6.0
+15:49:49.588 - INFO - UTILS - dependency: tool=prodigal, version=v2.6.3
+15:49:49.595 - INFO - UTILS - dependency: tool=amrfinder, version=v3.10.5
+15:49:49.611 - INFO - UTILS - dependency: tool=hmmsearch, version=v3.3.2
+15:49:49.618 - INFO - UTILS - dependency: tool=diamond, version=v2.0.9
+15:49:50.581 - INFO - UTILS - dependency: tool=blastn, version=v2.11.0
+15:49:50.612 - INFO - FASTA - imported: id=reference, length=45957, complete=False, topology=linear, description=reference 45957 bp
+15:49:50.613 - INFO - MAIN - imported sequences=1
+15:49:50.613 - INFO - UTILS - qc: revised sequence: id=contig_1, orig-id=reference, type=contig, complete=False, topology=linear, name=, description='', orig-description='reference 45957 bp'
+15:49:50.613 - INFO - FASTA - write genome sequences: path=/var/folders/9s/15s2g7v52755bjhtjvszthf40000gn/T/tmp37xbqjxi/contigs.fna, description=False, wrap=False
+15:49:50.980 - INFO - T_RNA - predicted=0
+15:49:51.010 - INFO - TM_RNA - predicted=0
+15:49:51.065 - INFO - R_RNA - predicted=0
+15:49:52.095 - INFO - NC_RNA - predicted=0
+15:49:52.352 - INFO - NC_RNA_REGION - contig=contig_1, start=41586, stop=41664, strand=+, label=AAC_AAD_leader, product=putative aminoglycoside riboswitch / attI site, length=79, truncated=None, score=73.7, evalue=3.1e-12
+15:49:52.352 - INFO - NC_RNA_REGION - contig=contig_1, start=12176, stop=12248, strand=-, label=AAC_AAD_leader, product=putative aminoglycoside riboswitch / attI site, length=73, truncated=None, score=64.4, evalue=2.6e-10
+15:49:52.352 - INFO - NC_RNA_REGION - predicted=2
+15:49:52.369 - INFO - CRISPR - predicted=0
+15:49:52.369 - INFO - CDS - create prodigal training file: file=/var/folders/9s/15s2g7v52755bjhtjvszthf40000gn/T/tmp37xbqjxi/prodigal.tf
+15:49:52.464 - INFO - FASTA - write genome sequences: path=/var/folders/9s/15s2g7v52755bjhtjvszthf40000gn/T/tmp37xbqjxi/contigs.fasta, description=False, wrap=False
+15:49:52.464 - INFO - CDS - run prodigal: type=contigs, # sequences=1
+15:49:52.558 - INFO - CDS - contig=contig_1, start=732, stop=995, strand=-, frame=2, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.558 - INFO - CDS - contig=contig_1, start=1001, stop=1723, strand=-, frame=3, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.558 - INFO - CDS - contig=contig_1, start=1819, stop=2331, strand=-, frame=1, truncated=no, start-type=TTG, RBS-motif=GGAGG
+15:49:52.558 - INFO - CDS - contig=contig_1, start=2527, stop=3195, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGxGG
+15:49:52.558 - INFO - CDS - contig=contig_1, start=3296, stop=4495, strand=+, frame=2, truncated=no, start-type=GTG, RBS-motif=GGAGG
+15:49:52.558 - INFO - CDS - contig=contig_1, start=4520, stop=4639, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+15:49:52.558 - INFO - CDS - contig=contig_1, start=5004, stop=5243, strand=-, frame=2, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.558 - INFO - CDS - contig=contig_1, start=5532, stop=6254, strand=+, frame=3, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.558 - INFO - CDS - contig=contig_1, start=6526, stop=6780, strand=+, frame=1, truncated=no, start-type=TTG, RBS-motif=AGGA
+15:49:52.558 - INFO - CDS - contig=contig_1, start=7610, stop=7891, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+15:49:52.558 - INFO - CDS - contig=contig_1, start=7913, stop=8095, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+15:49:52.558 - INFO - CDS - contig=contig_1, start=8123, stop=8806, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+15:49:52.558 - INFO - CDS - contig=contig_1, start=8840, stop=10054, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+15:49:52.558 - INFO - CDS - contig=contig_1, start=10315, stop=11115, strand=-, frame=1, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.558 - INFO - CDS - contig=contig_1, start=11222, stop=11497, strand=-, frame=3, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.559 - INFO - CDS - contig=contig_1, start=11709, stop=12182, strand=-, frame=2, truncated=no, start-type=TTG, RBS-motif=AGGA
+15:49:52.559 - INFO - CDS - contig=contig_1, start=12338, stop=13351, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+15:49:52.559 - INFO - CDS - contig=contig_1, start=13879, stop=14601, strand=+, frame=1, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.559 - INFO - CDS - contig=contig_1, start=14731, stop=15309, strand=+, frame=1, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.559 - INFO - CDS - contig=contig_1, start=15401, stop=16045, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+15:49:52.559 - INFO - CDS - contig=contig_1, start=16617, stop=19634, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+15:49:52.559 - INFO - CDS - contig=contig_1, start=20262, stop=20501, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+15:49:52.559 - INFO - CDS - contig=contig_1, start=20495, stop=21217, strand=+, frame=2, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.559 - INFO - CDS - contig=contig_1, start=21163, stop=22011, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGxGG
+15:49:52.559 - INFO - CDS - contig=contig_1, start=22008, stop=22340, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+15:49:52.559 - INFO - CDS - contig=contig_1, start=22411, stop=22953, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+15:49:52.559 - INFO - CDS - contig=contig_1, start=22966, stop=23826, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+15:49:52.559 - INFO - CDS - contig=contig_1, start=23915, stop=24637, strand=+, frame=2, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.559 - INFO - CDS - contig=contig_1, start=24583, stop=25131, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+15:49:52.559 - INFO - CDS - contig=contig_1, start=25269, stop=25901, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+15:49:52.559 - INFO - CDS - contig=contig_1, start=26230, stop=26922, strand=-, frame=1, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.559 - INFO - CDS - contig=contig_1, start=26928, stop=27650, strand=-, frame=2, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.559 - INFO - CDS - contig=contig_1, start=27679, stop=29319, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+15:49:52.559 - INFO - CDS - contig=contig_1, start=29999, stop=30298, strand=-, frame=3, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.559 - INFO - CDS - contig=contig_1, start=30333, stop=31208, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+15:49:52.559 - INFO - CDS - contig=contig_1, start=31464, stop=31703, strand=-, frame=2, truncated=no, start-type=TTG, RBS-motif=GGxGG
+15:49:52.559 - INFO - CDS - contig=contig_1, start=31857, stop=32579, strand=+, frame=3, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.559 - INFO - CDS - contig=contig_1, start=32619, stop=34397, strand=+, frame=3, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.559 - INFO - CDS - contig=contig_1, start=34791, stop=35480, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+15:49:52.560 - INFO - CDS - contig=contig_1, start=35662, stop=35838, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+15:49:52.560 - INFO - CDS - contig=contig_1, start=36135, stop=36518, strand=-, frame=2, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.560 - INFO - CDS - contig=contig_1, start=36528, stop=36989, strand=-, frame=2, truncated=no, start-type=GTG, RBS-motif=None
+15:49:52.560 - INFO - CDS - contig=contig_1, start=37044, stop=37847, strand=+, frame=3, truncated=no, start-type=TTG, RBS-motif=AGGA
+15:49:52.560 - INFO - CDS - contig=contig_1, start=37844, stop=38683, strand=+, frame=2, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.560 - INFO - CDS - contig=contig_1, start=38655, stop=39194, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+15:49:52.560 - INFO - CDS - contig=contig_1, start=39404, stop=39640, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+15:49:52.560 - INFO - CDS - contig=contig_1, start=39708, stop=40430, strand=-, frame=2, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.560 - INFO - CDS - contig=contig_1, start=40483, stop=41496, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+15:49:52.560 - INFO - CDS - contig=contig_1, start=41681, stop=42064, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+15:49:52.560 - INFO - CDS - contig=contig_1, start=42074, stop=42433, strand=+, frame=2, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.560 - INFO - CDS - contig=contig_1, start=42616, stop=42900, strand=+, frame=1, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.560 - INFO - CDS - contig=contig_1, start=43552, stop=44226, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+15:49:52.560 - INFO - CDS - contig=contig_1, start=44633, stop=44917, strand=-, frame=3, truncated=no, start-type=TTG, RBS-motif=None
+15:49:52.560 - INFO - CDS - contig=contig_1, start=45040, stop=45273, strand=-, frame=1, truncated=no, start-type=GTG, RBS-motif=None
+15:49:52.561 - INFO - CDS - contig cds: predicted=54
+15:49:52.561 - INFO - CDS - predicted=54
+15:49:52.674 - INFO - ORF - discarded=0
+15:49:52.719 - INFO - UPS - looked-up=39
+15:49:52.741 - INFO - IPS - looked-up=39
+15:58:24.410 - INFO - PSC - found=9
+15:58:24.459 - INFO - PSC - looked-up=46
+15:58:28.411 - INFO - EXPERT-AMRFINDER - found=11
+15:58:28.717 - INFO - EXPERT_AA_SEQ - found=15
+15:58:32.354 - INFO - CDS - predicted-pfams=0, CDS-w/-pfams=0
+15:58:32.404 - INFO - S_ORF - predicted=580
+15:58:33.112 - INFO - S_ORF - sORF filter: # valid=196, # discarded=384
+15:58:33.269 - INFO - ORF - discarded=0
+15:58:33.423 - INFO - UPS - looked-up=5
+15:58:33.428 - INFO - IPS - looked-up=5
+15:58:33.610 - INFO - S_ORF - homology: contig=contig_1, start=43230, stop=43295, strand=-, aa-length=21, query-cov=1.000, identity=1.000, UniRef90=A0A5E8FQY4
+15:58:33.610 - INFO - S_ORF - homology: contig=contig_1, start=43230, stop=43295, strand=-, aa-length=21, query-cov=1.000, identity=1.000, UniRef90=A0A5E8FQY4
+15:58:33.610 - INFO - S_ORF - found=1
+15:58:33.616 - INFO - PSC - looked-up=6
+15:58:36.334 - INFO - ORI - predicted=0
+15:58:37.180 - INFO - ORI - predicted=0
+15:58:37.180 - INFO - MAIN - selected features=59
+15:58:37.181 - INFO - UTILS - generated locus-tag: prefix=HAFFOH, MD5=1AFF812E79B16259AAAF824D26E23E5C
+15:58:37.181 - INFO - MAIN - locus tag prefix=HAFFOH
+15:58:37.181 - INFO - UTILS - genome-size=45957
+15:58:37.181 - INFO - UTILS - GC=0.523
+15:58:37.182 - INFO - UTILS - N=0.000
+15:58:37.182 - INFO - UTILS - N50=45957
+15:58:37.182 - INFO - UTILS - coding-ratio=0.770
+15:58:37.182 - INFO - JSON - write JSON: path=/Users/casperjamin/github.nosync/transposon_madness/bakta_annotations/reference.fasta/reference.json
+15:58:37.188 - INFO - TSV - write tsv: path=/Users/casperjamin/github.nosync/transposon_madness/bakta_annotations/reference.fasta/reference.tsv
+15:58:37.188 - INFO - GFF - write GFF3: path=/Users/casperjamin/github.nosync/transposon_madness/bakta_annotations/reference.fasta/reference.gff3
+15:58:37.191 - INFO - INSDC - write GenBank: path=/Users/casperjamin/github.nosync/transposon_madness/bakta_annotations/reference.fasta/reference.gbff
+15:58:37.199 - INFO - INSDC - write EMBL: path=/Users/casperjamin/github.nosync/transposon_madness/bakta_annotations/reference.fasta/reference.embl
+15:58:37.208 - INFO - FASTA - write genome sequences: path=/Users/casperjamin/github.nosync/transposon_madness/bakta_annotations/reference.fasta/reference.fna, description=True, wrap=True
+15:58:37.209 - INFO - FASTA - write translated CDS/sORF: path=/Users/casperjamin/github.nosync/transposon_madness/bakta_annotations/reference.fasta/reference.faa
+15:58:37.209 - INFO - TSV - write hypothetical tsv: path=/Users/casperjamin/github.nosync/transposon_madness/bakta_annotations/reference.fasta/reference.hypotheticals.tsv
+15:58:37.210 - INFO - FASTA - write translated CDS/sORF: path=/Users/casperjamin/github.nosync/transposon_madness/bakta_annotations/reference.fasta/reference.hypotheticals.faa
+15:58:37.213 - INFO - MAIN - removed tmp dir: /var/folders/9s/15s2g7v52755bjhtjvszthf40000gn/T/tmp37xbqjxi

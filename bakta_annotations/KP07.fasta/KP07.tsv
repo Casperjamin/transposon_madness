@@ -1,0 +1,80 @@
+#Annotated with Bakta (v1.0.3): https://github.com/oschwengers/bakta
+#Database (v2.0): https://doi.org/10.5281/zenodo.4247252
+#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	732	995	-	NLHPKH_00005		hypothetical protein	
+contig_1	cds	1001	1723	-	NLHPKH_00010	tnp-IS6	IS6-like element IS26 family transposase	COG:COG3316, COG:X, RefSeq:WP_001313567.1, SO:0001217, UniParc:UPI000049F13E, UniRef100:UniRef100_A0A6D1P4S9, UniRef50:UniRef50_C7EZD9, UniRef90:UniRef90_C7EZD9
+contig_1	cds	1819	2049	-	NLHPKH_00015		hypothetical protein	
+contig_1	cds	2082	2234	-	NLHPKH_00020		hypothetical protein	
+contig_1	cds	2527	3195	-	NLHPKH_00025		TetA resistance protein	COG:COG1309, COG:K, RefSeq:WP_031942322.1, SO:0001217, UniParc:UPI0004E05D41, UniRef100:UniRef100_A0A2P4S2Q8, UniRef50:UniRef50_P03038, UniRef90:UniRef90_D3INX2
+contig_1	cds	3296	4495	+	NLHPKH_00030	tet(A)	tetracycline efflux MFS transporter Tet(A)	COG:COG2814, COG:G, GO:0005886, GO:0006811, GO:0015297, GO:0016021, GO:0042910, GO:0046677, RefSeq:WP_031942321.1, SO:0001217, UniParc:UPI000158AAE9, UniRef100:UniRef100_A0A2P9EBP7, UniRef50:UniRef50_P02982, UniRef90:UniRef90_P02982
+contig_1	cds	5004	5237	-	NLHPKH_00035		hypothetical protein	SO:0001217, UniRef50:UniRef50_A0A366EMY7, UniRef90:UniRef90_A0A366EMY7
+contig_1	cds	5532	6254	+	NLHPKH_00040	tnp-IS6	IS6-like element IS26 family transposase	COG:COG3316, COG:X, SO:0001217, UniRef50:UniRef50_A0A345N8K8, UniRef90:UniRef90_A0A482M3B9
+contig_1	cds	6343	6780	+	NLHPKH_00045		Mrr_cat domain-containing protein	COG:COG1715, COG:V, RefSeq:WP_020325134.1, SO:0001217, UniParc:UPI0003430F42, UniRef100:UniRef100_A0A6C7H2D2, UniRef50:UniRef50_W8RB39, UniRef90:UniRef90_A0A6C7H2D2
+contig_1	cds	6824	6991	+	NLHPKH_00050		Putative hemolysin expression modulating protein	SO:0001217, UniParc:UPI0001824699, UniRef100:UniRef100_F6IBA3, UniRef50:UniRef50_A0A0K0VKY9, UniRef90:UniRef90_F6IBA3
+contig_1	cds	7610	7891	-	NLHPKH_00055		hypothetical protein	
+contig_1	cds	7913	8095	-	NLHPKH_00060		hypothetical protein	
+contig_1	cds	8123	8806	+	NLHPKH_00065	ecoRIIM	Modification methylase EcoRII	COG:COG0270, COG:L, EC:2.1.1.37, GO:0003886, GO:0009307, RefSeq:WP_080902038.1, SO:0001217, UniParc:UPI0009BBEDB3, UniRef100:UniRef100_A0A3G4RR15, UniRef50:UniRef50_P05101, UniRef90:UniRef90_P05101
+contig_1	cds	8840	10054	-	NLHPKH_00070	ecoRIIR	type II site-specific deoxyribonuclease	EC:3.1.21.4, GO:0003677, GO:0009036, GO:0009307, RefSeq:WP_004098817.1, SO:0001217, UniParc:UPI0000DAD75F, UniRef100:UniRef100_F6IBA5, UniRef50:UniRef50_P14633, UniRef90:UniRef90_P14633
+contig_1	cds	10061	10183	-	NLHPKH_00075		hypothetical protein	SO:0001217, UniParc:UPI0003DBF152, UniRef100:UniRef100_A0A068F2N7, UniRef50:UniRef50_A0A068F2N7, UniRef90:UniRef90_A0A068F2N7
+contig_1	cds	10315	11109	-	NLHPKH_00080	tnp-IS6100	IS6-like element IS6100 family transposase	SO:0001217, UniParc:UPI000005E804, UniRef100:UniRef100_C7S9U1, UniRef50:UniRef50_E2CSF8, UniRef90:UniRef90_Q6QWQ8
+contig_1	cds	11760	12188	-	NLHPKH_00085		hypothetical protein	
+contig_1	ncRNA-region	12166	12242	-			putative aminoglycoside riboswitch / attI site	RFAM:RF02912, SO:0000035
+contig_1	sorf	12192	12230	-	NLHPKH_00090	estX	Streptothricin acetyltransferase	SO:0001217, UniParc:UPI00000B6A7E, UniRef100:UniRef100_A9QNW9, UniRef50:UniRef50_A0A2R4A7Q1, UniRef90:UniRef90_B2G4W1
+contig_1	cds	12332	12682	+	NLHPKH_00095		Core-binding (CB) domain-containing protein	SO:0001217, UniRef50:UniRef50_A0A257DG24, UniRef90:UniRef90_A0A6S6Q7Z2
+contig_1	cds	12667	13125	+	NLHPKH_00100		Integron integrase IntI1	SO:0001217, UniRef50:UniRef50_B5SXK3, UniRef90:UniRef90_A0A482M333
+contig_1	cds	13083	13343	+	NLHPKH_00105	int	Integrase/recombinase	COG:COG4974, COG:L, GO:0003677, GO:0006310, GO:0015074, GO:0044826, GO:0046718, GO:0075713, SO:0001217, UniParc:UPI00032DDE56, UniRef100:UniRef100_A0A6G9I1V5, UniRef50:UniRef50_P62590, UniRef90:UniRef90_P62590
+contig_1	cds	13869	14264	+	NLHPKH_00110		DDE_Tnp_IS240 domain-containing protein	SO:0001217, UniRef50:UniRef50_A0A377F6L2, UniRef90:UniRef90_A0A6H1PYM9
+contig_1	cds	14261	14581	+	NLHPKH_00115		DDE_Tnp_IS240 domain-containing protein	SO:0001217, UniRef50:UniRef50_A0A0P0T0T3, UniRef90:UniRef90_A0A2P1BPN1
+contig_1	cds	14718	15296	+	NLHPKH_00120		Oxidoreductase	SO:0001217, UniParc:UPI0003DCE8C1, UniRef100:UniRef100_A0A6V8T284, UniRef50:UniRef50_A0A486LCL0, UniRef90:UniRef90_A0A486LCL0
+contig_1	cds	15388	16032	-	NLHPKH_00125	qnrB1	quinolone resistance pentapeptide repeat protein QnrB1	COG:COG1357, COG:S, RefSeq:WP_014386481.1, SO:0001217, UniParc:UPI00025283F3, UniRef100:UniRef100_A0A5S9ED61, UniRef50:UniRef50_Q2PT27, UniRef90:UniRef90_A0A0H4IRC3
+contig_1	cds	16604	19621	-	NLHPKH_00130		Tn3-like element IS3000 family transposase	RefSeq:WP_004199413.1, SO:0001217, UniParc:UPI00024359C9, UniRef100:UniRef100_T1TGK7, UniRef50:UniRef50_T2FKX8, UniRef90:UniRef90_T2FKX8
+contig_1	cds	19779	19964	+	NLHPKH_00135		hypothetical protein	
+contig_1	cds	20249	20488	+	NLHPKH_00140		hypothetical protein	SO:0001217, UniParc:UPI0003FD25A5, UniRef100:UniRef100_A0A366EM98, UniRef50:UniRef50_A0A366EM98, UniRef90:UniRef90_A0A366EM98
+contig_1	cds	20482	21204	+	NLHPKH_00145	tnp-IS6	IS6-like element IS26 family transposase	COG:COG3316, COG:X, RefSeq:WP_001313567.1, SO:0001217, UniParc:UPI000049F13E, UniRef100:UniRef100_A0A6D1P4S9, UniRef50:UniRef50_C7EZD9, UniRef90:UniRef90_C7EZD9
+contig_1	cds	21210	21902	+	NLHPKH_00150	aac(6')-Ib-cr	fluoroquinolone-acetylating aminoglycoside 6'-N-acetyltransferase AAC(6')-Ib-cr	COG:COG1670, COG:JO, SO:0001217, UniParc:UPI0001B22EC5, UniRef100:UniRef100_C7S9C9, UniRef50:UniRef50_Q849Y4, UniRef90:UniRef90_A0A0C5EWG3
+contig_1	cds	22231	22863	+	NLHPKH_00155	blaOXA	OXA-1 family class D beta-lactamase	COG:COG2602, COG:V, EC:3.5.2.6, GO:0008658, GO:0008800, GO:0017001, GO:0046677, SO:0001217, UniParc:UPI000676CECF, UniRef100:UniRef100_A0A0D4ZXG6, UniRef50:UniRef50_P13661, UniRef90:UniRef90_P13661
+contig_1	cds	23001	23549	+	NLHPKH_00160	catB3	type B-3 chloramphenicol O-acetyltransferase CatB3	RefSeq:WP_012783949.1, SO:0001217, UniParc:UPI0001B22EC7, UniRef100:UniRef100_C7S9D1, UniRef50:UniRef50_P26841, UniRef90:UniRef90_C7S9D1
+contig_1	cds	23495	24217	-	NLHPKH_00165	tnp-IS6	IS6-like element IS26 family transposase	COG:COG3316, COG:X, RefSeq:WP_001313567.1, SO:0001217, UniParc:UPI000049F13E, UniRef100:UniRef100_A0A6D1P4S9, UniRef50:UniRef50_C7EZD9, UniRef90:UniRef90_C7EZD9
+contig_1	cds	24258	25166	+	NLHPKH_00170	aac(3)-IIe	aminoglycoside N-acetyltransferase AAC(3)-IIe	SO:0001217, UniParc:UPI0004EF5639, UniRef100:UniRef100_A0A078K1Y1, UniRef90:UniRef90_P0A256
+contig_1	cds	25179	25721	+	NLHPKH_00175		AAA family ATPase	RefSeq:WP_002063889.1, SO:0001217, UniParc:UPI00000BF810, UniRef100:UniRef100_Q6SJ67, UniRef50:UniRef50_Q6SJ67, UniRef90:UniRef90_Q6SJ67
+contig_1	cds	25792	26124	+	NLHPKH_00180	tnp-IS3	IS3 family transposase	COG:COG2963, COG:X, SO:0001217, UniParc:UPI0001B22EC8, UniRef100:UniRef100_Q6SJ66, UniRef50:UniRef50_A0A2P9E4M0, UniRef90:UniRef90_A0A2P9E4M0
+contig_1	cds	26121	26969	+	NLHPKH_00185		Integrase	COG:COG2963, COG:X, SO:0001217, UniParc:UPI0001B22EC9, UniRef100:UniRef100_C7S9D6, UniRef50:UniRef50_N8RCI9, UniRef90:UniRef90_C7S9D6
+contig_1	cds	26915	27637	-	NLHPKH_00190	tnp-IS6	IS6-like element IS26 family transposase	COG:COG3316, COG:X, RefSeq:WP_001313567.1, SO:0001217, UniParc:UPI000049F13E, UniRef100:UniRef100_A0A6D1P4S9, UniRef50:UniRef50_C7EZD9, UniRef90:UniRef90_C7EZD9
+contig_1	cds	27666	29636	-	NLHPKH_00195		DDE_Tnp_Tn3 domain-containing protein	SO:0001217, UniRef50:UniRef50_A0A6C7H588, UniRef90:UniRef90_A0A6J4DJI3
+contig_1	cds	29802	30017	+	NLHPKH_00200		hypothetical protein	SO:0001217, UniParc:UPI0003C06935, UniRef100:UniRef100_A0A173QS84, UniRef50:UniRef50_A0A4D9YQJ2, UniRef90:UniRef90_A0A173QS84
+contig_1	cds	30001	30273	+	NLHPKH_00205		Tryptophan synthase beta chain like	RefSeq:WP_000243817.1, SO:0001217, UniParc:UPI000219CACF, UniRef100:UniRef100_I1YAX4, UniRef50:UniRef50_A0A1S7BG39, UniRef90:UniRef90_A0A1S7BG39
+contig_1	cds	30320	31255	-	NLHPKH_00210	blaCTX-M	class A extended-spectrum beta-lactamase CTX-M-15	EC:3.5.2.6, GO:0008800, GO:0030655, GO:0046677, SO:0001217, UniParc:UPI0001B22EE8, UniRef100:UniRef100_C7S9T0, UniRef50:UniRef50_P52664, UniRef90:UniRef90_P28585
+contig_1	cds	31451	31708	-	NLHPKH_00215		TpnA	RefSeq:WP_000268165.1, SO:0001217, UniParc:UPI0003BB57C4, UniRef100:UniRef100_A0A291PZZ9, UniRef50:UniRef50_C1IUL8, UniRef90:UniRef90_A0A291PZZ9
+contig_1	cds	31843	32064	+	NLHPKH_00220		IS6 family transposase	SO:0001217, UniParc:UPI0013EFEF35, UniRef100:UniRef100_A0A6F8QJY6, UniRef50:UniRef50_A0A417ZMY3, UniRef90:UniRef90_A0A6F8QJY6
+contig_1	cds	32021	32197	+	NLHPKH_00225		hypothetical protein	
+contig_1	cds	32241	32477	+	NLHPKH_00230		DDE-type integrase/transposase/recombinase	SO:0001217, UniRef50:UniRef50_A0A427W1G4, UniRef90:UniRef90_UPI000EFC8FDA
+contig_1	cds	32474	32569	+	NLHPKH_00235		hypothetical protein	
+contig_1	cds	32609	32968	+	NLHPKH_00240		hypothetical protein	
+contig_1	cds	32865	33257	-	NLHPKH_00245		hypothetical protein	
+contig_1	cds	33588	34052	+	NLHPKH_00250		hypothetical protein	
+contig_1	cds	34019	34381	+	NLHPKH_00255		Transposase and inactivated derivatives, TnpA family	SO:0001217, UniRef50:UniRef50_A0A0K2M6C4, UniRef90:UniRef90_A0A656AXL1
+contig_1	cds	34477	34860	+	NLHPKH_00260		Transposase (Identified by ISEscan HMM)	SO:0001217, UniRef50:UniRef50_A0A6F8Z7A1, UniRef90:UniRef90_A0A565FCF9
+contig_1	cds	34967	35431	+	NLHPKH_00265		Transposase (Identified by ISEscan HMM)	SO:0001217, UniRef50:UniRef50_A0A1J0QZA9, UniRef90:UniRef90_A0A565FCF6
+contig_1	cds	35775	35960	+	NLHPKH_00270		hypothetical protein	
+contig_1	cds	36115	36498	-	NLHPKH_00275		hypothetical protein	
+contig_1	cds	36508	36969	-	NLHPKH_00280		hypothetical protein	SO:0001217, UniRef50:UniRef50_A0A486KSZ2, UniRef90:UniRef90_A0A486KSZ2
+contig_1	cds	37597	37827	+	NLHPKH_00285		APH3	SO:0001217, UniParc:UPI0006DA83BC, UniRef100:UniRef100_A0A127T291, UniRef50:UniRef50_A0A127T291, UniRef90:UniRef90_A0A127T291
+contig_1	cds	37824	38663	+	NLHPKH_00290	aph(6)-Id	aminoglycoside O-phosphotransferase APH(6)-Id	COG:COG3570, COG:V, SO:0001217, UniParc:UPI0003E35420, UniRef100:UniRef100_V5KBE1, UniRef50:UniRef50_C5IWK8, UniRef90:UniRef90_Q7ATJ6
+contig_1	cds	38968	39237	+	NLHPKH_00295		hypothetical protein	
+contig_1	cds	39384	39620	-	NLHPKH_00300	blaTEM-1	class A broad-spectrum beta-lactamase TEM-1	EC:3.5.2.6, GO:0008800, GO:0030655, GO:0046677, SO:0001217, UniParc:UPI0001F07B88, UniRef100:UniRef100_P62593, UniRef50:UniRef50_P62593, UniRef90:UniRef90_P62593
+contig_1	cds	39688	40014	-	NLHPKH_00305		DDE_Tnp_IS240 domain-containing protein	SO:0001217, UniRef50:UniRef50_A0A0P0T0T3, UniRef90:UniRef90_A0A2P1BPN1
+contig_1	cds	40011	40229	-	NLHPKH_00310		hypothetical protein	
+contig_1	cds	40186	40407	-	NLHPKH_00315		IS6 family transposase	SO:0001217, UniParc:UPI0013EFEF35, UniRef100:UniRef100_A0A6F8QJY6, UniRef50:UniRef50_A0A417ZMY3, UniRef90:UniRef90_A0A6F8QJY6
+contig_1	cds	40523	41473	-	NLHPKH_00320		hypothetical protein	
+contig_1	ncRNA-region	41563	41643	+			putative aminoglycoside riboswitch / attI site	RFAM:RF02912, SO:0000035
+contig_1	sorf	41575	41613	+	NLHPKH_00325	estX	Streptothricin acetyltransferase	SO:0001217, UniParc:UPI00000B6A7E, UniRef100:UniRef100_A9QNW9, UniRef50:UniRef50_A0A2R4A7Q1, UniRef90:UniRef90_B2G4W1
+contig_1	cds	41890	42414	+	NLHPKH_00330	aadA1	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1	
+contig_1	cds	42603	42803	-	NLHPKH_00335		Putative transposase	SO:0001217, UniRef50:UniRef50_A0A0A7A3L3, UniRef90:UniRef90_A0A2X1SQN8
+contig_1	sorf	43177	43224	+	NLHPKH_00340		HTH luxR-type domain-containing protein	COG:COG2771, COG:K, SO:0001217, UniParc:UPI0006BD40C6, UniRef100:UniRef100_A0A0M5DIC7, UniRef50:UniRef50_L4J2W8, UniRef90:UniRef90_A0A0M5DIC7
+contig_1	cds	43309	43485	-	NLHPKH_00345		hypothetical protein	
+contig_1	cds	43502	43741	+	NLHPKH_00350		hypothetical protein	
+contig_1	cds	43912	44094	+	NLHPKH_00355		hypothetical protein	
+contig_1	cds	44094	44216	+	NLHPKH_00360		hypothetical protein	
+contig_1	cds	44624	44854	-	NLHPKH_00365		hypothetical protein	
+contig_1	cds	45012	45119	+	NLHPKH_00370		hypothetical protein	
+contig_1	cds	45082	45684	+	NLHPKH_00375		hypothetical protein	
